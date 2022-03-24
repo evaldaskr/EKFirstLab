@@ -2,4 +2,5 @@
     <string name="app_name">„Hello World“ App</string>
     <string name="button_name">Enter</string>
     <string name="appMainText">Hello World!</string>
+    <string name="changed_label_caption">Text was changed!</string>
 </resources>
