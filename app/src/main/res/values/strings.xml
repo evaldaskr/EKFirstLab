@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">EKFirstLab</string>
+    <string name="app_name">„Hello World“ App</string>
+    <string name="button_name">Enter</string>
+    <string name="appMainText">Hello World!</string>
 </resources>
