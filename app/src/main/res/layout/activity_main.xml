@@ -27,7 +27,6 @@
         android:paddingRight="@dimen/btnPadding"
         android:text="@string/button_name"
         android:textColor="#fff" />
-
     <Button
         android:id="@+id/btn2nd"
         android:layout_width="wrap_content"
